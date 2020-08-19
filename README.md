@@ -1,2 +1,2 @@
-# Exercicios JS
- Processo seletivo 
+# Exercicios Javascript
+ Caminho do meu aprendizado
